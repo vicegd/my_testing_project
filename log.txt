@@ -1,1 +1,2 @@
-This file is going to give us problems
+
+I added a log file now to the local repository
